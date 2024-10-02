@@ -39,9 +39,7 @@
         <p>To ensure smooth access, Archetyp Market is available through multiple <strong>Clearnet</strong> and <strong>Onion Links</strong>. This redundancy allows users to switch between different links if one is temporarily unavailable, ensuring uninterrupted access to the marketplace. The platform’s multiple entry points contribute to its high reliability and accessibility.</p>
         <h3>Official Onion Links:</h3>
         <ul>
-            <li><a href="http://arche3pmohqc2fou7flomkw4gyk4tcgrre3qrttec5qpsrihyooxxdqd.onion" target="_blank">arche3pmohqc2fou7flomkw4gyk4tcgrre3qrttec5qpsrihyooxxdqd.onion</a></li>
-            <li><a href="http://archabmgo5arzb6so564wzdsf76u6rm4dpukfcbf7jyjqgclu2beyd.onion" target="_blank">archabmgo5arzb6so564wzdsf76u6rm4dpukfcbf7jyjqgclu2beyd.onion</a></li>
-            <li><a href="http://archetypabmgo5arzb6so564wzdsf76u6rm4dpukfcbf7jyjqgclu2beyd.onion" target="_blank">archetypabmgo5arzb6so564wzdsf76u6rm4dpukfcbf7jyjqgclu2beyd.onion</a></li>
+            <li><a href="https://globaldarknet.com/darknetmarkets/archetyp.html" target="_blank">Archetyp</a></li>
         </ul>
     </section>
     <section>
